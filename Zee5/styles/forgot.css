@@ -1,0 +1,78 @@
+.logoImg{
+    width:96px;
+    height:96px;
+   text-align: center;
+   margin-left:140%;
+}
+.pageforgotdiv{
+    width:360px;
+    margin:auto;
+    /* border:1px solid black; */
+    height:600px;
+    padding:70px 0px 0px;
+
+}
+.logoZee{
+    margin:27px 0px;
+    display: inline-block;
+
+}
+
+.passLoad{
+    color:#ffffffff;
+    font-size: 16px;
+    padding:10px 0px 30px;
+    font-family: 'Noto Sans', sans-serif;
+    text-align: center;
+
+}
+body{
+   background-color: #0f0617;
+}
+
+.forclass{
+    width:90%;
+    margin:auto;
+    color: white;
+    
+}
+
+#psscode{
+    box-sizing: border-box;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12px;
+    height:37px;
+    padding:1%;
+    margin-top: 6%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color:#0F0617 ;
+    outline: none;
+}
+
+#submitbtn{
+    margin-top: 15%;
+    padding:3%;
+    border-radius: 5px;
+    background-color: #0F0617;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 14px;
+    color:#ffffff80;
+    border-color: #ffffff80;
+}
+
+#Newcode{
+    box-sizing: border-box;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12px;
+    height:37px;
+    padding:1%;
+    margin-top: 9%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color:#0F0617 ;
+    outline: none;
+    
+}

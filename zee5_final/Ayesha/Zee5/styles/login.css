@@ -1,0 +1,141 @@
+   /* mainbordercss */
+.mainheader{
+    width:360px;
+    margin:auto;
+    /* border:1px solid black; */
+    height:600px;
+    padding:70px 0px 0px;
+
+}
+body{
+    background-color: #0F0617
+}
+#lgg{
+    color:#fff;
+    font-size: 16px;
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+#lgg2{
+       color:#cfc3ca;
+        font-size: 14.4px;
+        line-height: 1.42em;
+        text-align: center;
+        margin:0 20px 30px;
+        font-family: 'Noto Sans', sans-serif;
+        margin:20px 20px 30px;
+      
+}
+
+.fontsize{
+
+    /* margin-left:45%; */
+    margin-top:50px;
+    width:80%;
+    /* border:1px solid red; */
+    margin:auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+   
+}
+.goggle{
+ font-size: 36px;
+ color:white;
+  
+}
+.fb{
+    font-size: 36px;
+    color:blue;
+   
+}
+.orCircle{
+    text-align: center;
+    /* border-bottom: 0.1em solid hsla(0,0%,100%,.35); */
+    /* line-height: .1em; */
+    margin: 24px auto 32px;
+    height: 5px;
+    /* width: 40%; */
+}
+#orr{
+    border-radius: 55%;
+    /* border:1px solid red; */
+    padding:10px;
+    width:20px;
+    margin:auto;
+    color: white;
+    background-color: hsla(0,0%,100%,.06);;
+}
+
+
+.intclass{
+    width:90%;
+    margin:auto;
+    margin-left:2px;
+    color: white;
+    
+}
+
+#emailMB{
+    box-sizing: border-box;
+    font-family: 'Noto Sans', sans-serif;
+    height:37px;
+    margin-left:2px;
+    padding:1%;
+    margin-top: 15%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color:#0F0617 ;
+    outline: none;
+    
+}
+.forgotclass{
+    width:90%;
+    margin:auto;
+    padding: 50px 20px;
+}
+.forgotspan{
+    text-align: center;
+    color:#a785ff;
+    margin-left:34% ;
+    cursor: pointer;
+    font-size: 12px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+#submitbtn{
+    margin-top: 2%;
+    padding:3%;
+    border-radius: 5px;
+    background-color: #0F0617;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 14px;
+    color:#ffffff80;
+    border-color: #ffffff80;
+}
+
+a{
+    color:#a785ff;
+    text-decoration: none;
+}
+
+.registerLink{
+    color:#ffffffff;
+    font-size: 12px;
+    font-family: 'Noto Sans', sans-serif;
+    padding:24px 0px 10px;
+   margin-left: 33%;
+}
+
+
+#twitterlogo{
+    width:50px;
+    height:36px;
+}
+
+#macapple{
+    width:50px;
+    height:36px;
+}

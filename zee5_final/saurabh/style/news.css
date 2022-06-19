@@ -1,0 +1,328 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    background:#0f0617;
+    position: relative;
+    font-family: roboto, sans-serif;
+}
+
+.carousel-container{
+    position: relative;
+    width: 100%;
+    height: 560px;
+    padding: 20px 0;
+    overflow-x: hidden;
+    margin-top: 50px;
+    /* border: 1px solid white; */
+}
+
+.carousel{
+    display: flex;
+    width: 90%;
+    height: 100%;
+    position: relative;
+    margin: auto;
+    background: #000;
+    /* border: 1px solid white; */
+}
+
+ .slider{
+    flex:  0 0 auto;
+    margin: auto;
+    margin-right: 30px;
+    position: relative;
+    background: rgba(0, 0, 0,0.5);
+    border-radius: 5px;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    transition: 1s;
+    overflow: hidden;
+    /* border: 5px solid yellow; */
+    
+}
+
+img{
+    width: 100%;
+   height: 100%;
+  
+} 
+
+.main-container{
+    position: relative;
+    overflow: hidden;
+    
+    /* border: 1px solid white; */
+  }
+
+.container{
+    width: 95%;
+    margin: auto;
+    position: relative;
+    
+}
+.title{
+    display: flex;
+    justify-content: space-between;
+    color: #ffffff;
+    /* border: 1px solid rgb(94, 19, 19); */
+    
+}
+
+.title>h2,a{
+    margin-top: 15px;
+}
+.title a{
+    color:#a785ff;
+    text-decoration: none;
+    font-size: 19px;
+}
+
+
+
+
+/*******/
+
+
+
+.card_container {
+  height: 400px;
+    display: flex;
+    align-items: center;
+    transform: translateX(0);
+    transition: all 0.4s ease-in-out;
+    margin-top: 30px;
+    
+    
+
+}
+.card{
+    
+    min-width: 380px;
+    height: 50%;
+    border-radius: 5px;
+    margin-top: 1%;
+    position: relative;
+    transition: 00.5s;
+    margin-right: 25px;
+    margin-bottom:25px;
+
+}
+.card:hover{
+    transform: scale(1.1);
+    border: 7px solid #ffffff;
+}
+
+.card >img{
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+}
+.body-card{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    background-color: #ffffff;
+    padding-bottom: 6px;
+    line-height: 1;
+    padding-left: 3%;
+    display: none;
+    transition: 0.4s;
+}
+.card:hover .body-card{
+    display: inherit;
+}
+.name{
+    padding: 1% 1.5%;
+    font-size: 13px;
+    font-weight: bold;
+    color: rgb(77, 75, 75);
+    
+}
+
+.body-bottom{
+    display: flex;
+    align-items: center;
+    
+}
+.body-bottom a{
+    border: 1px solid rgb(88, 86, 86);
+    padding: 1% 2.5%;
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: 600;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+
+.body-bottom a +p{
+    margin-top: 10px;
+}
+.body-bottom a:hover{
+    background-color: #210B61;
+    color: #ffffff;
+}
+.body-bottom p{
+    color: rgb(80, 77, 77);
+    font-size: 14px;
+}
+
+.body-bottom p:hover{
+    color: #4a3098;
+
+}
+
+
+  
+.nxt-btn
+{
+    position: absolute;
+    top: 10;
+    width: 2%;
+    height: 50%;
+    z-index: 2;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    margin-top: 100px;
+}
+
+.nxt-btn
+{
+    right: 0;
+    background: 0;
+}
+
+.nxt-btn img
+{
+    width: 13px;
+    height: 25px;
+    opacity: 0;
+}
+
+
+.nxt-btn:hover img
+{
+   opacity: 1;
+
+}
+
+
+
+.lang-main-container{
+    position: relative;
+    overflow: hidden;
+    /* border: 1px solid white; */
+}
+
+.lang-container{
+    width: 95%;
+    
+    margin: auto;
+    position: relative;
+    /* border: 1px solid white; */
+}
+
+
+.lang-title{
+    display: flex;
+    justify-content: space-between;
+    color: #ffffff;
+    margin-top: 20px;
+   
+}
+
+
+
+
+.lang-card{
+    
+    min-width: 320px;
+    height: 50%;
+    border-radius: 5px;
+    
+    position: relative;
+    transition: 00.5s;
+    margin-right: 25px;
+    margin-bottom:50px;
+    /* border: 1px solid white; */
+    
+
+}
+.lang-card:hover{
+    transform: scale(1.2);
+    border: 7px solid #ffffff;
+}
+
+
+.lang-card >img{
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+}
+
+
+
+.lang-body-card{
+
+
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    background-color: #ffffff;
+    padding-bottom: 5px;
+    line-height: 1.5;
+    padding-left: 2.5%;
+    display: none;
+    transition: 0.4s
+
+}
+
+
+
+.lang-card:hover .lang-body-card{
+    display: inherit;
+}
+.name{
+    padding: 1% 1.5%;
+    font-size: 13px;
+    font-weight: bold;
+    color: rgb(77, 75, 75);
+    
+}
+
+
+
+
+.h5{
+    margin-top: 22px;
+    margin-right: 20px;
+    color: white;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

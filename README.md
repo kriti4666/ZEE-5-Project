@@ -42,4 +42,4 @@
    <ul><li>Github:kanadOncode-141</li>
    <li>Github Link:https://github.com/kanadOncode-141</li>
    <li>Email:kanad93cod@gmail.com</li>
-   <li>LinkedIn:linkedin.com/in/kanad-baran-biswas-a73450231</li></ul>
+   <li>LinkedIn:https://www.linkedin.com/in/kanad-baran-biswas-a73450231/</li></ul>

@@ -37,3 +37,9 @@
       <li>Github Link:https://github.com/AyeshaKhan14</li>
       <li>Email:ayeshatravels9@gmail.com</li>
       <li>LinkedIn:https://www.linkedin.com/in/ayesha-khan-8a95691b9</li></ul>
+    
+    <h4>Kanad baran Biswas</h4>
+    <ul><li>Github:kanadOncode-141</li>
+      <li>Github Link:https://github.com/kanadOncode-141</li>
+      <li>Email:kanad93cod@gmail.com</li>
+      <li>LinkedIn:linkedin.com/in/kanad-baran-biswas-a73450231</li></ul>

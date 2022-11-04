@@ -52,7 +52,7 @@
    
    
      <h4>Saurabh Kumar</h4>
-    <ul><li>Github:srkjha</li>
+    <ul><li>Github: Saurabh Kumar</li>
       <li>Github Link:https://github.com/srkjha</li>
-      <li>Email:srkjha1234@gmail.com</li>
+      <li>Email: srkjha1234@gmail.com</li>
       <li>LinkedIn:https://www.linkedin.com/in/srkjha</li></ul>

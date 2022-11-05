@@ -50,9 +50,8 @@
    <li>Email: aspppppp75@gmail.com</li>
    <li>LinkedIn: https://www.linkedin.com/in/abhijeetsharma1/</li></ul>
    
-   
-     <h4>Saurabh Kumar</h4>
-    <ul><li>Github: Saurabh Kumar</li>
-      <li>Github Link:https://github.com/srkjha</li>
-      <li>Email: srkjha1234@gmail.com</li>
-      <li>LinkedIn:https://www.linkedin.com/in/srkjha</li></ul>
+   <h4>Saurabh Kumar</h4>
+  <ul><li>Github: Saurabh Kumar</li>
+    <li>Github Link:https://github.com/srkjha</li>
+    <li>Email: srkjha1234@gmail.com</li>
+    <li>LinkedIn:https://www.linkedin.com/in/srkjha</li></ul>

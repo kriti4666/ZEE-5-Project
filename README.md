@@ -1,6 +1,6 @@
 <html>
   <h1>ZEE5-Project clone</h1>
-   <h3>In the Masai School Construct week project ,We have cloned the Zee5 website https://peaceful-sunburst-6090f0.netlify.app/ .ZEE5 is an Indian subscription video on-demand and over-the-top streaming service, where user can watch anywhere, anytime, on multiple devices. ZEE5 allows users to instantly watch content through any internet-connected device .User can enjoy the following benefits with ZEE5 premium plans: User can get to watch shows Ad-Free! and can access to over 2800 Blockbusters movies and web series ,Live-matches.
+   <h3>In the Masai School Construct week project ,We have cloned the Zee5 website https://zee5clone.netlify.app .ZEE5 is an Indian subscription video on-demand and over-the-top streaming service, where user can watch anywhere, anytime, on multiple devices. ZEE5 allows users to instantly watch content through any internet-connected device .User can enjoy the following benefits with ZEE5 premium plans: User can get to watch shows Ad-Free! and can access to over 2800 Blockbusters movies and web series ,Live-matches.
     <br> We built it in 7days with the team of 6 collaborators.</p>
    <p> Some features of our Projects-</p>
     <p> 1)A secure developers panel for Controlling Website,watching details and user's feedbacks for website.
